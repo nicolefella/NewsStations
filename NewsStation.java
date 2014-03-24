@@ -15,7 +15,6 @@ public class NewsStation
 	
 	/**
 	* Constructor for local news sources, which takes a parameter header. 
-	* There is an additional constructor with no parameters (for those news sources like PigLatin)
 	**/
 	public NewsStation(String headerParam)
 	{
